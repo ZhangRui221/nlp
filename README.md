@@ -1,6 +1,6 @@
-# 孙颖莎的自我介绍
+# 权志龙的自我介绍
 
-<img src="https://gzdaily.dayoo.com/pc/resfile/2023-05-29/A13/10227109_zhanghl_1685285158114_b.jpg" width="200" alt="孙颖莎">
+<img src="https://github.com/ZhangRui221/nlp/blob/main/image/bbe76f103176b9110ecd6d53e9ffa65.jpg" width="200" alt="孙颖莎">
 
 大家好，我是**权志龙**，我的身份是*韩国流行音乐男歌手*。以下是我的自我介绍：
 
